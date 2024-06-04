@@ -3,7 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - BoxEnd
+  - GuideText
+  - Ladder
+  - PortalStart
+  - PortalEnd
+  - JumpWall
+  - Key
+  - KeyHole
+  - Exit
+  - Death
+  - TakeDMG
+  - UI
   layers:
   - Default
   - TransparentFX
@@ -11,8 +24,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Ground
+  - wallLayer
   - 
   - 
   - 
